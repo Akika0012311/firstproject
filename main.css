@@ -1,0 +1,27 @@
+#title-container{
+    display: flex;
+    justify-content: center;
+}
+#title-div{
+    border: 5px solid rgb(141, 141, 141);
+    border-radius: 20px;
+    padding-left: 1.5vw;
+    padding-right: 1.5vw;
+    padding-top: 0.2vw;
+    padding-bottom: 0.2vw;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 3px 3px 20px;
+}
+#title-text{
+    letter-spacing: 1px;
+    font-size: 2rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(107, 107, 107);
+}
+
+
+
+
+body {
+    background-color: rgb(167, 235, 235);
+}
